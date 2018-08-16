@@ -1,3 +1,7 @@
 this file is for testing purpose 
 file contain only two lines
+<<<<<<< HEAD 
 one more line added 
+=======
+one two more line added 
+>>>>>>> branch1
